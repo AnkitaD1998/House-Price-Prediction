@@ -33,3 +33,10 @@ We have more than 21k records having 26 features. These columns provide the belo
 - lot_measure15: Represents the square footage of the lot, when measured in 2015 year as the lot area may or may not change after renovation if any done
 - furnished: Tells whether the house is furnished or not
 - total_area: Represents total area i.e. area of both living and lot
+
+  ## Data Pipeline
+  - Exploratory Data Analysis (EDA): In this part, we have done some EDA on the features to see the trend.
+  - Data Preprocessing: In this part, we went through each attribute and encoded the categorical features using the pipeline.
+  - Model Creation: Finally in this part, we created the various models. These various models are being analyzed and we tried to study various models so that we can get the best 
+  performing.
+
