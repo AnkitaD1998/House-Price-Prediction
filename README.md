@@ -9,7 +9,5 @@ Build a model that will predict the house price when required features are passe
 We have more than 21k records having 26 features. These columns provide the below information
 
 - cid: Notation for a house. Will not be of use, So we will drop this column
-
 - day hours: Represents Date, when the house was sold
-
 - price: It's our TARGET feature, that we have to predict based on other features
