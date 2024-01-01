@@ -5,7 +5,7 @@ A house's value is more than location and square footage. Like the features that
 # Objective
 Build a model that will predict the house price when required features are passed to the model. So we will find out the significant features from the given features dataset that affect the house price the most and Build the best feasible model to predict the house price
 
-## Data Description
+# Data Description
 We have more than 21k records having 26 features. These columns provide the below information
 
 - Cid: Notation for a house. Will not be of use, So we will drop this column
@@ -34,11 +34,11 @@ We have more than 21k records having 26 features. These columns provide the belo
 - furnished: Tells whether the house is furnished or not
 - total_area: Represents total area i.e. area of both living and lot
 
-## Data Pipeline
+# Data Pipeline
 - Exploratory Data Analysis (EDA): In this part, we have done some EDA on the features to see the trend.
 - Data Preprocessing: In this part, we went through each attribute and encoded the categorical features using the pipeline.
 - Model Creation: Finally in this part, we created the various models. These various models are being analyzed and we tried to study various models so that we can get the best 
-  performing.
+  performance.
   
 # Algorithms
 1. Linear Regression
@@ -49,4 +49,4 @@ We have more than 21k records having 26 features. These columns provide the belo
 6. Gradient Boosting Regression
 
 # Conclusion
-
+The best performance is given by the Gradient boosting model with training (score-0.93, RMSE-63611), testing (score-0.86, RSME-93794) 
