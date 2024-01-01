@@ -39,4 +39,14 @@ We have more than 21k records having 26 features. These columns provide the belo
 - Data Preprocessing: In this part, we went through each attribute and encoded the categorical features using the pipeline.
 - Model Creation: Finally in this part, we created the various models. These various models are being analyzed and we tried to study various models so that we can get the best 
   performing.
+  
+# Algorithms
+1. Linear Regression
+2. Lasso Regression
+3. Ridge Regression
+4. Decision Tree Regression
+5. Random Forest Regression
+6. Gradient Boosting Regression
+
+# Conclusion
 
