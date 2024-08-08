@@ -50,3 +50,25 @@ We have more than 21k records having 26 features. These columns provide the belo
 
 # Conclusion
 The best performance is given by the Gradient boosting model with training (score-0.93, RMSE-63611), testing (score-0.86, RSME-93794) 
+
+# Recommendations for Sellers
+- Conduct a thorough analysis of similar properties in the neighborhood to set a competitive and realistic price
+- Emphasize the number of bedrooms and bathrooms, living area, and any unique features like waterfront views, quality ratings, and condition to justify the price
+- Consider renovating outdated aspects of the house, especially if the property is old. Upgrading kitchens, bathrooms, and flooring can significantly increase the value
+- Furnishing the house can attract higher prices, as furnished houses are perceived as more valuable
+- If the house is in a sought-after location like Seattle or Medina, make sure to highlight this in the marketing materials
+
+# Recommendations for Buyers
+- Focus on properties with features that are important to you, such as the number of bedrooms, bathrooms, and overall condition
+- Consider properties with high-quality grades and good condition, as they are likely to appreciate more over time
+- Conduct thorough inspections to identify any potential issues, especially in older properties or those with basements that might have been undervalued
+
+# General Recommendations
+- Run educational campaigns to inform potential buyers and sellers about the key factors affecting property values and the importance of accurate pricing
+- Pay attention to the correlation between various features (e.g., living measure, number of floors, condition, quality) and price to identify the most influential factors
+
+
+
+
+
+
